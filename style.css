@@ -1234,5 +1234,17 @@ footer a:hover{
     #about-head div {
         padding-left: 0;
     }
+
+    /* cart page */
+    #cart-add {
+        display: flex;
+        flex-direction: column;
+    }
+    #coupon {
+        width: 100%;
+    }
+    #subtotal {
+        width: 100%;
+    }
 }
 
