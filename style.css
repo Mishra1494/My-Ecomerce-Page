@@ -883,6 +883,9 @@ footer a:hover{
 }
 
 /* Cart page edditing */
+#cart {
+    overflow-x: auto ;
+}
 #cart  table{
     width:100%;
     border-collapse: collapse;
